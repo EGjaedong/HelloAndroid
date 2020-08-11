@@ -8,3 +8,5 @@
 .externalNativeBuild
 .cxx
 .jks
+/.dev
+/.qa
